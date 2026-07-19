@@ -1,0 +1,27 @@
+Thls text Is about one small Aeld on the crossroads of statlstlcs, operatlons
+research and computer sclence. Statlstlclans need random number generators to
+test and compare estlmators before uslng them In real llfe. In operatlons research,
+random numbers are a key component In large scale slmulatlons. Computer sclentlsts need randomness In program testlng, game playing and comparlsons of algorl tlims.
+The applications are wide and varled. Yet all depend upon the same computer generated random numbers. Usually, the randomness demanded by an
+appllcatlon has some bullt-in structure: typlcally, one needs more than just a
+sequence of Independent random blts or Independent uniform [0,1] random varlables. Some users need random varlables wlth unusual densltles, or random comblnatorlal objects with speclfic propertles, or random geometric obJects, or random processes wlth well deflned dependence structures. Thls 1s preclsely the subJect area of the book, the study of non-unlform random varlates.
+The plot evolves around the expected complexlty of random variate generatlon algorlthms. We set up an ldeallzed computatlonal model (without overdolng
+lt), we introduce the notlon of unlformly bounded expected complexlty, and we
+study upper and lower bounds for computatlonal complexlty. In short, a touch of
+computer science Is added to the Aeld. To keep everything abstract, no tlmlngs or
+computer programs are Included.
+Thls was a labor of love. George Marsaglla created CS690, a course on random number generatlon at the School of Computer Sclence of McG111 Unlverslty.
+The text grew from course notes for CS690, whlch I have taught eveiy fall since
+1977. A few lngenlous pre-1977 papers on the subject (by Ahrens, Dleter, Marsaglla, Chambers, Mallows, Stuck and others) provlded the early stlrnulus. Bruce
+Schmelser’s superb survey talks at varlous ORSA/TIMS and Wlnter Slmulatlon
+meetlngs convlnced me that there was enough structure In the Aeld to warrant a
+separate book. Thls belief was relnforced when Ben Fox asked me to read a preprint of hls book wlth Bratley and Schrage. Durliig the preparatlon of the text,
+Ben’s crltlcal feedback was Invaluable. There are many others whom I would lllce
+to thank for helplng me In my understandlng and suggesting Interestlng problems. I am particularly grateful to Rlchard Brent, Jo Ahrens, U11 Dleter, Brlaii
+Rlpley, and to my ex-students Wendy Tse, Colleen Yuen and Amlr Naderlsamani. For stlmuli of another nature durlng the past few months, I
+thank my wife Bea, my children Natasha and Birglt, my Burger King mates
+Jeanne Yuen and Kent Chow, my sukebe frlends In Toronto and Montreal, and
+the supreme sukebe, Bashekku Shubataru. Wlthout the flnanclal support of
+NSERC, the research leading to this work would have been impossible. The text
+was typed (wlth one Anger) and edited on LISA'S Omce System before it was sent
+on to the School's VAX for troff-ing and laser typesettlng.
